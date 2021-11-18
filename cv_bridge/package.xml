@@ -2,8 +2,7 @@
   <name>cv_bridge</name>
   <version>1.15.0</version>
   <description>
-    This contains CvBridge, which converts between ROS
-    Image messages and OpenCV images.
+    This contains CvBridge, which converts between ROS Image messages and OpenCV images.
   </description>
   <author>Patrick Mihelich</author>
   <author>James Bowman</author>
